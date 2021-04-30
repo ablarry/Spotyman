@@ -19,7 +19,7 @@ genres 	= Dict("rock" 	   => ["the rolling stones","arctic monkeys"],
 
 # Reponses
 resp_spot 	 = "Spotyman: "
-resp_hello 	 = "Whay do you wanna know of music?"
+resp_hello 	 = "What do you wanna know of music?"
 resp_bye	 = "Good times!, see you later!"
 resp_user_hello = s"\2, What you wanna know of music?"
 resp_you 	 = s"I \3 \2 like ... Is this question relevant?"
